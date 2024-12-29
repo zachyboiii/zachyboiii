@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/zachyboiii/zachyboiii/output/snake.svg" alt="Snake animation" />
+
 
 ###
