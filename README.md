@@ -8,7 +8,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
   </a>
   
-  <img width="12" />
+  
   
   <!-- Google with a mailto link -->
   <a href="mailto: lkyzachary@gmail.com">
@@ -22,7 +22,12 @@
 
 ###
 
-<p align="left">📚 I'm currently studying Computer Science and Design in Singapore University of Technology and Design<br>🎯 Aspiring Software/ AI Engineer</p>
+<p align="left">
+  📚: I'm currently studying Computer Science and Design in <a href="https://www.sutd.edu.sg" target="_blank">Singapore University of Technology and Design</a><br>
+  🎯: Aspiring Software/ AI Engineer
+  👨🏻‍💻:<a href="https://zachyboiii.github.io/zac-portfolio/" target="_blank">Portfolio Website<a/> 
+</p>
+
 
 ###
 
