@@ -12,7 +12,7 @@
   
   <!-- Google with a mailto link -->
   <a href="mailto: lkyzachary@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 
@@ -31,7 +31,7 @@
 
 ###
 
-<h2 align="left">Backend:</h2>
+<h2 align="left">Skills:</h2>
 
 ###
 
@@ -47,10 +47,6 @@
 
 ###
 
-<h2 align="left">Frontend:</h2>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -60,6 +56,9 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
 </div>
+
+###
+
 
 ###
 
@@ -76,5 +75,3 @@
 ###
 
 
-
-###
