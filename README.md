@@ -24,7 +24,7 @@
 
 <p align="left">
   📚: I'm currently studying Computer Science and Design in <a href="https://www.sutd.edu.sg" target="_blank">Singapore University of Technology and Design</a><br>
-  🎯: Aspiring Software/ AI Engineer
+  🎯: Aspiring Software/ AI Engineer<br>
   👨🏻‍💻:<a href="https://zachyboiii.github.io/zac-portfolio/" target="_blank">Portfolio Website<a/> 
 </p>
 
