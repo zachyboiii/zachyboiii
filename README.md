@@ -39,9 +39,9 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/numpy/013243" height="40" alt="numpy" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/openai/000000" height="40" alt="openai" />
+  <img src="https://skillicons.dev/icons?i=openai" height="40" alt="openai" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" height="40" alt="aws bedrock" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws bedrock" />
 </div>
 
 > Large Language Models (LLMs) · Retrieval-Augmented Generation (RAG) · Multi-Agent Systems · LangGraph · LangChain · Prompt Engineering · Tool Calling · Deep Reinforcement Learning · Scikit-Learn
@@ -61,7 +61,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3" />
+  <img src="https://cdn.simpleicons.org/css/1572B6" height="40" alt="css3" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwind" />
 </div>
@@ -101,7 +101,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="aws" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws" />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/apachespark/E25A1C" height="40" alt="apache spark" />
 </div>
@@ -117,7 +117,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/jest/C21325" height="40" alt="jest" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/playwright/2EAD33" height="40" alt="playwright" />
+  <img src="https://skillicons.dev/icons?i=playwright" height="40" alt="playwright" />
 </div>
 
 > PyTest · CI/CD · REST API Design
