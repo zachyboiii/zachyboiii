@@ -20,7 +20,7 @@
 
 <p align="left">
   📚 Studying <strong>Computer Science and Design</strong> at <a href="https://www.sutd.edu.sg" target="_blank">SUTD</a> — GPA 4.65/5.0, Global Distinguished Scholar<br>
-  🤖 Aspiring AI/ Software Engineer
+  🤖 Aspiring AI/ Software Engineer<br>
   🎯 Passionate about <strong>multi-agent AI systems</strong>, <strong>RAG pipelines</strong>, and <strong>full-stack development</strong><br>
   👨🏻‍💻 <a href="https://zachyboiii.github.io/zac-portfolio/" target="_blank">Portfolio Website</a>
 </p>
