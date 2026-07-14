@@ -20,9 +20,8 @@
 
 <p align="left">
   📚 Studying <strong>Computer Science and Design</strong> at <a href="https://www.sutd.edu.sg" target="_blank">SUTD</a> — GPA 4.65/5.0, Global Distinguished Scholar<br>
-  🤖 AI and Mobile Engineer intern at <strong>OCBC Bank</strong> — building agentic RAG workflows for <a href="https://fintechnews.sg/133885/wealthtech/ocbc-avatar-banking/" target="_blank">OCBC WoW</a>, an AI avatar banking app for wealth clients<br>
+  🤖 Aspiring AI/ Software Engineer
   🎯 Passionate about <strong>multi-agent AI systems</strong>, <strong>RAG pipelines</strong>, and <strong>full-stack development</strong><br>
-  🏆 DSTA BrainHack 2025 Champion (CODE_EXP Competitive Category)<br>
   👨🏻‍💻 <a href="https://zachyboiii.github.io/zac-portfolio/" target="_blank">Portfolio Website</a>
 </p>
 
